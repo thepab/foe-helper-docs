@@ -4,9 +4,7 @@
 
 ## Deutsch
 
-* [Installation ](de/installation/README.md)
-  * [Plug-in installieren](de/installation/installieren.md)
-  * [Plug-in konfigurieren](de/installation/konfigurieren.md)
+* [Installation](de/installation/installation.md)
 
 * [Module](/de/module/README.md)
   * [Alarm](de/module/alarm/README.md)
@@ -47,9 +45,7 @@
 
 ## English
 
-* [Installation ](en/installation/README.md)
-  * [Installing the plug-in](en/installation/installing.md)
-  * [Configuring the plug-in](en/installation/configuring.md)
+* [Installation](en/installation/installing.md)
 
 * [Modules](/en/module/README.md)
   * [Alerts](en/module/alerts/README.md)
@@ -90,9 +86,7 @@
   
 ## Français
 
-* [Installation](fr/installation/README.md)
-  * [Installer le plug-in](fr/installation/installer.md)
-  * [Configurer le plug-in](fr/installation/configurer.md)
+* [Installation](fr/installation/installer.md)
 
 * [Modules](fr/module/README.md)
   * [Aide Galaxie Bleue](fr/module/galaxie-bleue/README.md)
@@ -104,12 +98,14 @@
   * [Aperçu de la ville](fr/module/ville/README.md)
   * [Aperçu des membres de la guilde](fr/module/membres/README.md)
   * [Aperçu des unités militaires](fr/module/armee/README.md)
+  * [Assistant min-jeu Aztèque](fr/module/azteque/README.md)
   * [Arbre des technologies](fr/module/arbre_techno/README.md)
   * [Calculatrice GM Externe](fr/module/calculatrice_gm_externe/README.md)
   * [Calculatrice GM Interne](fr/module/calculatrice_gm_interne/README.md)
   * [Carte de campagne](fr/module/campagne/README.md)
   * [Champ de bataille de guilde](fr/module/bataille_guilde/README.md)
   * [Colonie culturelle](fr/module/colonie/README.md)
+  * [Comparer les amis](fr/module/comparer-ami/README.md)
   * [Efficience des bâtiments](fr/module/efficience/README.md)
   * [Filtre du marché](fr/module/marche/README.md)
   * [Incidents](fr/module/incident/README.md) 
@@ -122,6 +118,7 @@
   * [Paramètres](fr/module/parametres/README.md)
   * [Résultat de l'EG](fr/module/statistique_EG/README.md)
   * [Statistiques](fr/module/stat/README.md)
+  * [Système de chateau](fr/module/chateau/README.md)	
   
 * [Site Web](fr/site_web/README.md)
   * [Planificateur de cité](fr/site_web/planificateur_cite/README.md)
