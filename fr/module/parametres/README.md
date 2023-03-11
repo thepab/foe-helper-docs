@@ -140,7 +140,7 @@ Active / désactive l'ouverture de l'[aide Galaxie bleue](../galaxie-bleue/READM
 Active / désactive l'enregistrement des [événements PO / MO](../motivation/README.md).
 
 {% hint style="info" %}
-Si la coche n'est pas mise, alors l'îcone de l'assistant PO / MO ](./.images/icone_po_mo.png) dans le menu disparaît même si l'[îcone est active](#icone_active) dans le menu de l'assistant
+Si la coche n'est pas mise, alors l'îcone de l'assistant PO / MO ![](./.images/icone_po_mo.png) dans le menu disparaît même si l'[îcone est active](#icone_active) dans le menu de l'assistant
 {% endhint %}
 
 ### <a name="inf_tech"></a>Info Technique
@@ -196,11 +196,13 @@ Affiche automatiquement la fenêtre d'[info de l'éclaireur](../eclaireur/README
 Active / désactive l'affichage du badge qui affiche le nombre de quêtes réccurentes effectuées<br>
 ![Badge des 2000 quêtes](./.images/badge.png)
 
-### Lien des joueurs
+###  <a name="Lien"></a>Lien des joueurs
 
 ![Lien des joueurs](./.images/fenetre_15.png)
 
 Permet d'afficher un lien ![](./.images/lien.png) vers le site web [foe.scoredb.io](https://foe.scoredb.io)/monde/guilde/nom du joueur a chaque fois qu'un nom de joueur est affiché dans tous les modules.
+
+Remplace les noms de kits de construction par des liens vers forgeofempires.fandom.com (en anglais).
 
 ### Cacher l'assistant pendant les batailles
 

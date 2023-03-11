@@ -10,6 +10,7 @@
   * [Alarm](de/module/alarm/README.md)
   * [Armeen](de/module/armeen/README.md)
   * [Blaue Galaxie Helfer](de/module/blaue-galaxie/README.md)
+  * [Discord Webhooks](de/module/discord/README.md)
   * [Eigenanteilsrechner](de/module/eigenanteilsrechner/README.md)
   * [Einstellungen](de/module/einstellungen/README.md)
   * [Ereignisse](de/module/ereignisse/README.md)
@@ -25,6 +26,7 @@
   * [Kostenrechner](de/module/kostenrechner/README.md)
   * [LG Investitionen](de/module/lg-investitionen/README.md)
   * [Markt Filter](de/module/markt/README.md)
+  * [Merger Game](de/module/merger-game/README.md)
   * [Moppelassistent](de/module/moppel/README.md)
   * [Notizen](de/module/notizen/README.md)
   * [Produktions Übersicht](de/module/produktion/README.md)
@@ -53,6 +55,7 @@
   * [Building Efficiency Rating](en/module/efficiency/README.md)
   * [Continent Map Overview](en/module/continent/README.md)
   * [FP Collector Overview](en/module/collector/README.md)
+  * [Discord Webhooks](en/module/discord/README.md)
   * [FP Investments](en/module/fp-investments/README.md)
   * [GB Calculator](en/module/gb-calculator/README.md)
   * [GB Cost Calculator](en/module/gb-cost/README.md)
@@ -63,6 +66,7 @@
   * [Incidents](en/module/incidents/README.md)
   * [Info Box](en/module/infobox/README.md)
   * [Market Filter](en/module/market/README.md)
+  * [Merger Game](en/module/mergergame/README.md)
   * [Military Units Overview](en/module/military/README.md)
   * [Motivate/Polish Helper](en/module/motivate/README.md)
   * [Negotiation Helper](en/module/negotiation/README.md)
@@ -86,7 +90,7 @@
   
 ## Français
 
-* [Installation](fr/installation/installer.md)
+* [Installation](fr/installation/installation.md)
 
 * [Modules](fr/module/README.md)
   * [Aide Galaxie Bleue](fr/module/galaxie-bleue/README.md)
@@ -106,6 +110,7 @@
   * [Champ de bataille de guilde](fr/module/bataille_guilde/README.md)
   * [Colonie culturelle](fr/module/colonie/README.md)
   * [Comparer les amis](fr/module/comparer-ami/README.md)
+  * [Discord Webhooks](fr/module/discord/README.md)
   * [Efficience des bâtiments](fr/module/efficience/README.md)
   * [Filtre du marché](fr/module/marche/README.md)
   * [Incidents](fr/module/incident/README.md) 
@@ -128,3 +133,15 @@
   * [Github](fr/guide/github.md)
   * [Markdown](fr/guide/markdown.md)
   * [Ecrire un doc](fr/guide/documentation.md)
+
+## Italian
+
+* [Installazione](it/installazione/installazione.md)
+
+* [Sito](it/sito/README.md)
+	* [Mappa della città](it/sito/mappacitta/README.md)
+
+* [Aiuto](it/guida/README.md)
+  * [Github](it/guida/github.md)
+  * [Markdown](it/guida/markdown.md)
+  * [Scrittura della documentazione](it/guida/documentazione.md)
